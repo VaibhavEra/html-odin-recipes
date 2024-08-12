@@ -1,0 +1,18 @@
+body {
+    font-family: monospace;
+}
+.header {
+    background-color: darkblue;
+    color: whitesmoke;
+    text-align: center;
+    padding: 8px;
+    font-size: 50px;
+}
+
+.recipes {
+    background-color: blanchedalmond;
+    margin: 0px 700px;
+    font-size: 25px;
+    padding: 8px;
+    color: rgb(250, 255, 240);
+}
